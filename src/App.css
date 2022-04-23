@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  width:700px;
+  margin-left: 410px;
+  font-size: larger;
+  border-radius: 30%;
+  margin-top: 270px;
+  
+}
+
+.mb-3 {
+  border-color: aqua;
+  border-radius: 20%;
+
 }
 
 .App-logo {
